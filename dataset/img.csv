@@ -12,13 +12,6 @@ Blues\433401.jpeg
 Blues\79723.jpeg
 Blues\83959.jpeg
 Blues\83967.jpeg
-Classical\135343.jpeg
-Classical\198786.jpeg
-Classical\233317.jpeg
-Classical\235585.jpeg
-Classical\250242.jpeg
-Classical\491351.jpeg
-Classical\55029.jpeg
 Electronic\117300.jpeg
 Electronic\122037.jpeg
 Electronic\16385.jpeg
@@ -544,11 +537,6 @@ Latin\1984570.jpeg
 Latin\2196514.jpeg
 Latin\271727.jpeg
 Latin\283644.jpeg
-Non-Music\111131.jpeg
-Non-Music\19766.jpeg
-Non-Music\2167543.jpeg
-Non-Music\392011.jpeg
-Non-Music\432542.jpeg
 Pop\10112.jpeg
 Pop\10115.jpeg
 Pop\101294.jpeg
@@ -790,10 +778,6 @@ Stage & Screen\65568.jpeg
 Stage & Screen\75575.jpeg
 "multi\Blues+Folk, World, & Country\4030.jpeg"
 multi\Blues+Pop+Stage & Screen\286848.jpeg
-multi\Classical+Children's\50707.jpeg
-multi\Classical+Stage & Screen\2192836.jpeg
-multi\Classical+Stage & Screen\26110.jpeg
-multi\Classical+Stage & Screen\415804.jpeg
 multi\Electronic+Funk&Soul\22044.jpeg
 multi\Electronic+Funk&Soul\2206285.jpeg
 multi\Electronic+Funk&Soul\26565.jpeg
@@ -805,7 +789,6 @@ multi\Electronic+Jazz\63355.jpeg
 multi\Electronic+Jazz+Pop\36251.jpeg
 multi\Electronic+Jazz+Rock+Funk&Soul+Pop+Stage & Screen\74227.jpeg
 multi\Electronic+Latin+Funk&Soul\2355508.jpeg
-multi\Electronic+Non-Music\5664.jpeg
 multi\Electronic+Pop\106579.jpeg
 multi\Electronic+Pop\12764.jpeg
 multi\Electronic+Pop\197379.jpeg
@@ -856,7 +839,6 @@ multi\Funk&Soul+Blues+Pop\74250.jpeg
 "multi\Funk&Soul+Folk, World, & Country\189135.jpeg"
 "multi\Funk&Soul+Folk, World, & Country\2372290.jpeg"
 "multi\Funk&Soul+Folk, World, & Country\283992.jpeg"
-multi\Funk&Soul+Non-Music+Stage & Screen\110357.jpeg
 multi\Funk&Soul+Pop\101797.jpeg
 multi\Funk&Soul+Pop\112680.jpeg
 multi\Funk&Soul+Pop\115426.jpeg
@@ -923,7 +905,6 @@ multi\Hip Hop+Funk&Soul\78820.jpeg
 multi\Hip Hop+Funk&Soul\89708.jpeg
 multi\Hip Hop+Funk&Soul\96179.jpeg
 multi\Hip Hop+Funk&Soul+Pop\40948.jpeg
-multi\Hip Hop+Jazz+Rock+Funk&Soul+Non-Music+Stage & Screen\101755.jpeg
 multi\Hip Hop+Latin\79395.jpeg
 multi\Hip Hop+Latin+Pop\144285.jpeg
 multi\Hip Hop+Pop\130371.jpeg
@@ -942,7 +923,6 @@ multi\Hip Hop+Stage & Screen\109378.jpeg
 multi\Jazz+Blues\122246.jpeg
 multi\Jazz+Blues\205409.jpeg
 "multi\Jazz+Blues+Folk, World, & Country\152257.jpeg"
-multi\Jazz+Classical\84791.jpeg
 multi\Jazz+Funk&Soul\101741.jpeg
 multi\Jazz+Funk&Soul\10792.jpeg
 multi\Jazz+Funk&Soul\113229.jpeg
@@ -1014,7 +994,6 @@ multi\Jazz+Latin+Funk&Soul\225550.jpeg
 multi\Jazz+Latin+Pop\111021.jpeg
 multi\Jazz+Latin+Pop\111856.jpeg
 multi\Jazz+Latin+Pop\192646.jpeg
-multi\Jazz+Non-Music+Pop\240012.jpeg
 multi\Jazz+Pop\114209.jpeg
 multi\Jazz+Pop\118796.jpeg
 multi\Jazz+Pop\118798.jpeg
@@ -1052,7 +1031,6 @@ multi\Jazz+Pop\616220.jpeg
 multi\Jazz+Pop\75899.jpeg
 multi\Jazz+Pop\86316.jpeg
 multi\Jazz+Pop\96898.jpeg
-multi\Jazz+Pop+Classical\107004.jpeg
 "multi\Jazz+Pop+Folk, World, & Country\172407.jpeg"
 "multi\Jazz+Pop+Folk, World, & Country\206018.jpeg"
 multi\Jazz+Rock\12939.jpeg
@@ -1095,8 +1073,6 @@ multi\Latin+Pop\240846.jpeg
 multi\Latin+Pop\396000.jpeg
 multi\Latin+Pop\47358.jpeg
 multi\Latin+Pop\80560.jpeg
-multi\Non-Music+Stage & Screen\419073.jpeg
-multi\Pop+Classical\44758.jpeg
 "multi\Pop+Folk, World, & Country\100990.jpeg"
 "multi\Pop+Folk, World, & Country\124018.jpeg"
 "multi\Pop+Folk, World, & Country\13891.jpeg"
@@ -1122,7 +1098,6 @@ multi\Reggae+Funk&Soul\95954.jpeg
 "multi\Reggae+Funk&Soul+Folk, World, & Country\1980349.jpeg"
 "multi\Reggae+Funk&Soul+Folk, World, & Country\2189392.jpeg"
 multi\Reggae+Funk&Soul+Pop\187299.jpeg
-multi\Reggae+Non-Music\117044.jpeg
 multi\Reggae+Pop\111252.jpeg
 multi\Reggae+Pop\164310.jpeg
 multi\Rock+Blues\105836.jpeg
@@ -1138,7 +1113,6 @@ multi\Rock+Blues\73096.jpeg
 multi\Rock+Blues\90611.jpeg
 multi\Rock+Blues+Pop\208429.jpeg
 multi\Rock+Blues+Pop\90257.jpeg
-multi\Rock+Classical\12643.jpeg
 "multi\Rock+Folk, World, & Country\112479.jpeg"
 "multi\Rock+Folk, World, & Country\14596.jpeg"
 "multi\Rock+Folk, World, & Country\229704.jpeg"

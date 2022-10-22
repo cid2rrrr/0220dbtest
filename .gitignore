@@ -1,3 +1,5 @@
 
 models/ResNet50.h5
 models/ResNet50_3input.h5
+*.h5
+*.data-00000-of-00001

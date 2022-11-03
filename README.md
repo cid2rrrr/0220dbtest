@@ -87,7 +87,7 @@ I compared the Precision and Recall when classifying genres using only Album Cov
 ------
 Welp, I started this project without knowing Deep Learning and finished it as if I am chased, the result is not very good.  
 
-What I was trying to ascertain is that accuracy(f1-score) increases whn given additional information.  
+What I was trying to ascertain is that accuracy(f1-score) increases when given additional information.  
 It looks a little bit up, but not sure.  
 
 If Data Crawling and Refinement had been made more certain, the result would have been clear.

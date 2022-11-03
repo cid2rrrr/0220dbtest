@@ -85,6 +85,14 @@ I compared the Precision and Recall when classifying genres using only Album Cov
 
 ## Result
 ------
+
+![rslt 1](./1.png)
+![rslt 2](./2.png)
+![rslt 3](./3.png)
+![rslt 4](./4.png)
+![rslt 5](./5.png)
+
+
 Welp, I started this project without knowing Deep Learning and finished it as if I am chased, the result is not very good.  
 
 What I was trying to ascertain is that accuracy(f1-score) increases when given additional information.  

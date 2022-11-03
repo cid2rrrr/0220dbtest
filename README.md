@@ -14,9 +14,7 @@ Multi Labeled Genre Classificaion via Album Cover
 ### What I do on this project
 
 >There are some papers about 'Genre Classification via Album Covers'. However, all of them approached only Single-Labeled Classification.  
-</br>
 Also, as you know, People guess the genre of the album through the artist's race, feeling, etc. on the album cover.   
-</br>
 So in this project, I'm gonna approach this problem w/ a Multi-Labeled Classification using personal(facial) information.  
 
 </br>

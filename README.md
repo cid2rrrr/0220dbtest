@@ -1,4 +1,4 @@
-Multi Labeled Genre Classificaion via Album Cover
+Multi Labeled Genre Classification via Album Cover
 ===============
 
 **Notice** Since I reset my Desktop w/o any backup, I can't update anymore
@@ -49,8 +49,8 @@ To make various attempts, I collected various info in the Album Cover IMGs and s
 >   * master_release ID
 >   * path of the IMG
 >   * whether the genre of the album is multi-labeled
->   * grey level histogram, RGB level histogram(but Failed)
->   * RGB values of dominant color of the Album Cover
+>   * grey level histogram, RGB level histogram(not used)
+>   * RGB values of the dominant color of the Album Cover
 >   * Age/Gender/Race/Emotion of the artist in the Album Cover (if there exists).
 >   * Genre of the Album (one-hot encoded, 15 genres total)
 
@@ -62,8 +62,8 @@ To make various attempts, I collected various info in the Album Cover IMGs and s
 </br>
 
 Since I want to use only 7 major genres, I dropped the albums belonging to other genres.  
-Also I dropped the albums not including facial info.
-Finallly, I divided the dataset into three, to make it easier to change the model Input.
+Also, I dropped the albums, not including facial info.
+Finally, I divided the dataset into three, to make it easier to change the model Input.
 
 </br>
 </br>
@@ -72,10 +72,10 @@ Finallly, I divided the dataset into three, to make it easier to change the mode
 ### Other .ipynb Files
 </br>
 
-I tried lot of things. But I can't remember what i did exactly.  
+I tried a lot of things. But I can't remember what I did exactly.  
 [Inception_7genre.ipynb][incept] is the cleanest file.
 
-[incept]: https://github.com/cid2rrrr/Multi-Labeled-Genre-Classifier-via-Album-Cover/blob/main/Inception_7genre.ipynb "github link"
+[incept]: https://github.com/cid2rrrr/Multi-Labeled-Genre-Classifier-via-Album-Cover/blob/main/Inception_7genre.ipynb "GitHub link"
 
 I compared the Precision and Recall when classifying genres using only Album Cover IMGs and using additional information(facial, color).
 
@@ -93,7 +93,7 @@ I compared the Precision and Recall when classifying genres using only Album Cov
 ![rslt 5](./5.png)
 
 
-Welp, I started this project without knowing Deep Learning and finished it as if I am chased.  
+Welp, I started this project without knowing Deep Learning and finished it as if I were chased.  
 So the result is not very good.  
 
 What I was trying to ascertain is that accuracy(f1-score) increases when given additional information.  
